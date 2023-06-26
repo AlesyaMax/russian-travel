@@ -1,0 +1,21 @@
+.places__url-heading {
+  margin: 0 0;
+  padding: 0 0 12px 0;
+  color: #AAA;
+  font-family: 'Inter Regular', Arial, Helvetica, sans-serif;
+  font-size: 12px;
+  line-height: 12px;
+  letter-spacing: 0.2vw;
+}
+
+@media (max-width: 1200px) {
+  .places__url-heading {
+    line-height: 170%;
+  }
+}
+
+@media (max-width: 1020px) {
+  .places__url-heading {
+    line-height: 12px;
+  }
+}

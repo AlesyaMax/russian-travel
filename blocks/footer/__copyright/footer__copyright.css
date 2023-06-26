@@ -1,0 +1,14 @@
+.footer__copyright {
+  margin: 0 0;
+  padding: 0 0;
+  color: #FFF;
+  font-family: 'Inter Regular', Arial, Helvetica, sans-serif;
+  font-size: 14px;
+  line-height: 16px;
+}
+
+@media (max-width: 760px) {
+  .footer__copyright {
+    line-height: 14px;
+  }
+}

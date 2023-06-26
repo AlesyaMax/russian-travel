@@ -1,0 +1,27 @@
+.places__paragraphs {
+  margin: 0 0;
+  max-width: 484px;
+  display: flex;
+  flex-direction: column;
+}
+
+@media (max-width: 1200px) {
+  .places__paragraphs {
+    width: 456px;
+  }
+}
+
+@media (max-width: 1020px) {
+  .places__paragraphs {
+    width: 352px;
+  }
+}
+
+@media (max-width: 760px) {
+  .places__paragraphs {
+    width: 288px;
+    padding-top: 32px;
+    padding-left: 16px;
+    padding-right: 16px;
+  }
+}

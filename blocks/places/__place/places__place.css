@@ -1,0 +1,24 @@
+.places__place {
+  margin: 0 auto;
+  max-width: 984px;
+  display: flex;
+  flex-direction: column;
+}
+
+@media (max-width:1200px) {
+  .places__place {
+    max-width: 928px;
+  }
+}
+
+@media (max-width:1020px) {
+  .places__place {
+    max-width: 720px;
+  }
+}
+
+@media (max-width:760px) {
+  .places__place {
+    max-width: 320px;
+  }
+}

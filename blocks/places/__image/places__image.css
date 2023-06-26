@@ -1,0 +1,32 @@
+.places__image {
+  margin: 0 0;
+  padding-right: 40px;
+  width: 460px;
+  height: 460px;
+  bottom: 0;
+  left: 0;
+}
+
+@media (max-width: 1200px) {
+  .places__image {
+    padding-right: 32px;
+    width: 440px;
+    height: 440px;
+  }
+}
+
+@media (max-width: 1020px) {
+  .places__image {
+    padding-right: 28px;
+    width: 340px;
+    height: 340px;
+  }
+}
+
+@media (max-width: 760px) {
+  .places__image {
+    padding-right: 0;
+    width: 320px;
+    height: 320px;
+  }
+}

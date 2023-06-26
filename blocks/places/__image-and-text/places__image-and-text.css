@@ -1,0 +1,10 @@
+.places__image-and-text {
+  margin: 0 0;
+  display: flex;
+}
+
+@media (max-width: 760px) {
+  .places__image-and-text {
+    flex-direction: column;
+  }
+}
