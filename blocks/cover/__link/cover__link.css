@@ -1,7 +1,10 @@
 .cover__link {
   text-decoration: none;
-  display: block;
-  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  max-width: 100%;
 }
 
 .cover__link::after {

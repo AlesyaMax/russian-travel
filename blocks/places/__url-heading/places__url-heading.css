@@ -2,10 +2,12 @@
   margin: 0 0;
   padding: 0 0 12px 0;
   color: #AAA;
-  font-family: 'Inter Regular', Arial, Helvetica, sans-serif;
+  font-family: 'Inter', Arial, Helvetica, sans-serif;
+  font-weight: 400;
   font-size: 12px;
   line-height: 12px;
   letter-spacing: 0.2vw;
+  text-transform: uppercase;
 }
 
 @media (max-width: 1200px) {

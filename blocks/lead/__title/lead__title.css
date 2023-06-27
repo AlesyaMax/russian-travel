@@ -2,11 +2,11 @@
   max-width: 720px;
   margin: 56px auto 0 auto;
   color: #FFFFFF;
-  font-family: 'Inter Black', Arial, Helvetica, sans-serif;
+  font-family: 'Inter', Arial, Helvetica, sans-serif;
+  font-weight: 900;
   font-size: 96px;
   line-height: 100px;
   text-align: center;
-  opacity: 20%;
 }
 
 @media (max-width: 1200px) {
