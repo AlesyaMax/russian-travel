@@ -20,4 +20,4 @@
 
 **GitHub Pages**
 
-Проект выложен по ссылке: https://alesyamax.github.io/russian-travel/index.html
+Проект выложен по ссылке: https://alesyamax.github.io/russian-travel/
