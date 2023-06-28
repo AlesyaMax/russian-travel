@@ -4,14 +4,14 @@
   padding-top: 92px;
   display: flex;
   flex-direction: column;
-  padding-right: 22.5%;
+  padding-right: 294px;
 }
 
 @media (max-width: 1200px) {
   .intro {
     padding-left: 48px;
     min-width: 720px;
-    padding-right: 24%;
+    padding-right: 23%;
   } 
 }
 

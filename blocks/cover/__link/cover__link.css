@@ -20,4 +20,5 @@
 
 .cover__link:hover::after {
   opacity: 0.8;
+  transition: 0.5s;
 }
